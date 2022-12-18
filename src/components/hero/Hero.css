@@ -1,0 +1,14 @@
+section.hero {
+    background-color: var(--background);
+    padding-top: 12rem;
+}
+
+.hero-text > * {
+    margin-bottom: 1rem;
+    color: var(--foreground);
+}
+
+.btn-p {
+    background-color: var(--foreground);
+    color: var(--background);
+}
